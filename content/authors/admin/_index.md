@@ -3,7 +3,7 @@
 name: Md Mintu Miah
 
 # Username (this should match the folder name)
-authors:Md Mintu Miah
+authors:
 - admin
 
 # Is this the primary user of the site?
