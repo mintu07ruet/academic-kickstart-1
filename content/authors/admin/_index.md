@@ -24,7 +24,7 @@ interests:
 -Transportation Data Mining and Machine Learning
 -Transportation Planning
 -Traffic Safety 
--ITS, UMV 
+-ITS, AV
 -Driving Behavior
 
 
