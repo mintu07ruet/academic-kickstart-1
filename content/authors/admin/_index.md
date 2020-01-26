@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mdmintu.miah@mavs.uta.edu".
+  link: '8083874052'  # For a direct email link, use "mdmintu.miah@mavs.uta.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
