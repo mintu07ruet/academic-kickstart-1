@@ -3,7 +3,7 @@
 name: Md Mintu Miah
 
 # Username (this should match the folder name)
-authors:
+authors:Md Mintu Miah
 - admin
 
 # Is this the primary user of the site?
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '8083874052'  # For a direct email link, use "mdmintu.miah@mavs.uta.edu".
+  link: 'contact'  # For a direct email link, use "mdmintu.miah@mavs.uta.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
