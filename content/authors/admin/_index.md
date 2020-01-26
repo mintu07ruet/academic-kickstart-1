@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Md Mintu Miah
 
 # Username (this should match the folder name)
-authors:
+authors:Md Mintu Miah
 - admin
 
 # Is this the primary user of the site?
